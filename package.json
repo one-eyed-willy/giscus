@@ -24,7 +24,7 @@
     "@primer/octicons-react": "^19.4.0",
     "dompurify": "^3.0.4",
     "jsonwebtoken": "^9.0.0",
-    "lit-html": "^2.7.4",
+    "lit-html": "^2.8.0",
     "mathjax": "3.2.2",
     "next": "^12.3.4",
     "next-plugin-preact": "^3.0.7",
